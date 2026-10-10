@@ -1,0 +1,45 @@
+# Documentation: https://rmk.rs/docs/configuration/
+[keyboard]
+name = "Custom keyboard"
+product_name = "Custom keyboard"
+vendor_id = 0x4c4b
+product_id = 0x4643
+manufacturer = "BenceTopa"
+chip = "rp2040"
+
+[matrix]
+# Row and col pins are mandatory
+row_pins = ["PIN_0", "PIN_1", "PIN_2", "PIN_3"]
+col_pins = ["PIN_4", "PIN_5", "PIN_6", "PIN_7", "PIN_8", "PIN_9", "PIN_10", "PIN_11", "PIN_12", "PIN_13", "PIN_14", "PIN_15"]
+# RMK uses col2row as the default matrix diode direction, if you want to use a row2col matrix, add `row2col = true`
+# row2col = true
+
+[layout]
+rows = 4
+cols = 12
+map = """
+(0,0)  (0,1)  (0,2)  (0,3)  (0,4)  (0,5)  (0,6)  (0,7)  (0,8)  (0,9)  (0,10)  (0,11,@1.75u)
+(1,0,@1.25u)  (1,1)  (1,2)  (1,3)  (1,4)  (1,5)  (1,6)  (1,7)  (1,8)  (1,9)  (1,10)  (1,11,@1.5u)
+(2,0,@1.75u)  (2,1)  (2,2)  (2,3)  (2,4)  (2,5)  (2,6)  (2,7)  (2,8)  (2,9)  (2,10)  (2,11)
+(3,0,@1.5u)  (3,1,@1.25u)  (3,2)  (3,4,@2u)  (3,6,@2u)  (3,7)  (3,8)  (3,9)  (3,10)  (3,11)
+"""
+
+[keymap]
+layers = 2
+
+[[keymap.layer]] # layer 0
+name = "base_layer"
+keys = """
+Escape Q W E R T Y U I O P Backspace
+Tab A S D F G H J K L Semicolon Delete
+LShift Z X C V B N M Comma Dot Slash Minus
+MO(1) LAlt LGui Space Enter LCtrl LeftBracket RightBracket Equal Quote
+"""
+
+[[keymap.layer]] # layer 1
+keys = """
+TRNS Kc0 Kc1 Kc2 Kc3 Kc4 Kc5 Kc6 Kc7 Kc8 Kc9 PrintScreen
+F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12
+CapsLock Undo Cut Copy Paste MediaPrevTrack MediaPlayPause MediaNextTrack PageUp AudioVolDown Up AudioVolUp
+TRNS TRNS TRNS TRNS TRNS NonusBackslash PageDown Left Down Right
+"""

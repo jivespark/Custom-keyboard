@@ -1,0 +1,1 @@
+The firmware for this project runs on RMK compiled in cloud based on their official docs at [rmk.rs](https://rmk.rs/docs/user_guide/create_firmware.html).
