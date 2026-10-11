@@ -1,4 +1,4 @@
-<img width="709" height="236" alt="image" src="https://github.com/user-attachments/assets/2d5b569e-41c3-4b3b-a141-f1ceebd530a2" /><img width="709" height="236" alt="image" src="https://github.com/user-attachments/assets/49dbe7d4-ae02-428b-8ee1-f21148e99507" /># Custom-keyboard
+# Custom-keyboard
 This is my custom keyboard project. I designed it to be used both at my desk, and when travelling to hackathons. I don't have a good proper mechanical keyboard, and always wanted to build one, so that's part of the reason why I built it. It uses a custom 40% layout that I designed, with portability and ease of use in mind. it has a 4Ux12.75U size layout, with a raspberry PI pico on the side. I built it as my project for week one of the Half Life Hack Club YSWS.
 
 **Technical specifications**  
