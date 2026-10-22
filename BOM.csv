@@ -1,8 +1,15 @@
-Part,Description,Qty,Unit Price,Total,Vendor,Product Link
-MX style switches,The switches for the keyboard,1,13.78,13.78,Aliexpress,https://www.aliexpress.com/item/1005007438857419.html
-Diodes,Diodes for the keyboard matrix,1,1.91,1.91,Aliexpress,https://www.aliexpress.com/item/4001126137167.html
-Stabilizers,2U Stabilizers for the spacebar and enter,2,0.58,1.16,Aliexpress,https://www.aliexpress.com/item/1005007083130095.html
-Raspberry pi pico,AN RP2040 devboard for the brain,1,6.55,6.55,Aliexpress,https://www.aliexpress.com/item/1005013004299224.html
-M3x10 screws,Screws for the feet,1,2.43,2.43,Aliexpress,https://www.aliexpress.com/item/4000117933430.html
-PCB,The PCB for the project.,1,16.50,16.50,JLCPCB,https://jlcpcb.com/quote
-Tax & shipping,for the whole order,,,12.55,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+MX style switches,1,Aliexpress,$13.78,$13.78,https://www.aliexpress.com/item/1005007438857419.html
+Diodes,1,Aliexpress,$1.91,$1.91,https://www.aliexpress.com/item/4001126137167.html
+Stabilizers,2,Aliexpress,$0.58,$1.16,https://www.aliexpress.com/item/1005007083130095.html
+Raspberry pi pico,1,Aliexpress,$6.55,$6.55,https://www.aliexpress.com/item/1005013004299224.html
+M3x10 screws,1,Aliexpress,$2.43,$2.43,https://www.aliexpress.com/item/4000117933430.html
+PCB,1,JLCPCB,$17.00,$17.00,https://jlcpcb.com/quote
+CH334R chip,1,LCSC,$0.50,$0.50,https://www.lcsc.com/product-detail/C4154405.html
+Fuse,1,LCSC,$0.58,$0.58,https://www.lcsc.com/product-detail/C41367221.html
+USB-C receptacle,1,LCSC,$0.87,$0.87,https://www.lcsc.com/product-detail/C165948.html
+USB Connector,3,LCSC,$1.46,$4.38,https://www.lcsc.com/product-detail/C5360016.html
+5.1kΩ resistors,1,LCSC,$0.19,$0.19,https://www.lcsc.com/product-detail/C880983.html
+Capacitors,1,Aliexpress,$3.12,$3.12,https://www.aliexpress.com/item/1005007476892288.html
+12 Mhz crystal,1,LCSC,$0.60,$0.60,https://www.lcsc.com/product-detail/C7275087.html
+Estimated total shipping,1,,,$27.87,
