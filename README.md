@@ -10,8 +10,6 @@ I built this project with the help of the keyboard tutorial from Hack Club [Keeb
 **Images**  
 Cad render:  
 ![CAD](https://github.com/jivespark/Custom-keyboard/blob/main/Images/CAD.png?raw=true)  
-Schematic:  
-![schematic](https://github.com/jivespark/Custom-keyboard/blob/main/Images/Schematic.png?raw=true)  
 PCB:  
 ![PCB](https://github.com/jivespark/Custom-keyboard/blob/main/Images/PCB.png?raw=true)  
 Keymap base layer:  
