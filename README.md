@@ -18,3 +18,22 @@ Keymap base layer:
 ![keymap](https://github.com/jivespark/Custom-keyboard/blob/main/Images/base-layer.png?raw=true)  
 Keymap layer 1:  
 ![keymap](https://github.com/jivespark/Custom-keyboard/blob/main/Images/layer-1.png?raw=true)  
+
+**BOM**  
+| Item                     | Qty | Supplier   | Cost/item | Total Cost | link                                                  |
+|--------------------------|-----|------------|-----------|------------|-------------------------------------------------------|
+| MX style switches        | 1   | Aliexpress | $13.78    | $13.78     | https://www.aliexpress.com/item/1005007438857419.html |
+| Diodes                   | 1   | Aliexpress | $1.91     | $1.91      | https://www.aliexpress.com/item/4001126137167.html    |
+| Stabilizers              | 2   | Aliexpress | $0.58     | $1.16      | https://www.aliexpress.com/item/1005007083130095.html |
+| Raspberry pi pico        | 1   | Aliexpress | $6.55     | $6.55      | https://www.aliexpress.com/item/1005013004299224.html |
+| M3x10 screws             | 1   | Aliexpress | $2.43     | $2.43      | https://www.aliexpress.com/item/4000117933430.html    |
+| PCB                      | 1   | JLCPCB     | $17.00    | $17.00     | https://jlcpcb.com/quote                              |
+| CH334R chip              | 1   | LCSC       | $0.50     | $0.50      | https://www.lcsc.com/product-detail/C4154405.html     |
+| Fuse                     | 1   | LCSC       | $0.58     | $0.58      | https://www.lcsc.com/product-detail/C41367221.html    |
+| USB-C receptacle         | 1   | LCSC       | $0.87     | $0.87      | https://www.lcsc.com/product-detail/C165948.html      |
+| USB Connector            | 3   | LCSC       | $1.46     | $4.38      | https://www.lcsc.com/product-detail/C5360016.html     |
+| 5.1kΩ resistors          | 1   | LCSC       | $0.19     | $0.19      | https://www.lcsc.com/product-detail/C880983.html      |
+| Capacitors               | 1   | Aliexpress | $3.12     | $3.12      | https://www.aliexpress.com/item/1005007476892288.html |
+| 12 Mhz crystal           | 1   | LCSC       | $0.60     | $0.60      | https://www.lcsc.com/product-detail/C7275087.html     |
+| Estimated total shipping | 1   |            |           | $24.86     |                                                       |
+
